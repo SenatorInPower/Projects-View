@@ -12,7 +12,3 @@ https://user-images.githubusercontent.com/66920423/138082316-6924ae4e-6e2b-4423-
 
 https://user-images.githubusercontent.com/66920423/138082328-9cd917f1-836f-42c1-b801-33ad9d1a934d.mp4
 
-
-
-https://user-images.githubusercontent.com/66920423/138082493-a3a3e72e-567e-4375-8ba1-1cbc59740352.mp4
-
