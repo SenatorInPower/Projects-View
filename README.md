@@ -1,6 +1,15 @@
 # Projects-View
 Мои тестовые проекты годичной давности и демо территория детского сада со зданием созданным по чертежам.
 
+
+3D Casino , видео билда без настроенного света
+
+![Casino](https://user-images.githubusercontent.com/66920423/138529416-ed9ab65a-f41e-4211-90d3-d8e152ce8e36.jpg)
+
+
+https://user-images.githubusercontent.com/66920423/138529519-438e0b06-5eb1-49ac-9f40-18467cf77e00.mp4
+
+
 ТЗ Для Enixan
 
 https://user-images.githubusercontent.com/66920423/138082274-61a40a18-0f9a-49ae-a3c4-2c65868853f4.mp4
@@ -25,14 +34,4 @@ https://user-images.githubusercontent.com/66920423/138526467-c7ca1341-f715-4518-
 
 
 https://user-images.githubusercontent.com/66920423/138529500-89240248-4b33-484c-bb44-13a9632aeb05.mp4
-
-
-3D Casino , видео билда без настроенного света
-
-
-![Casino](https://user-images.githubusercontent.com/66920423/138529416-ed9ab65a-f41e-4211-90d3-d8e152ce8e36.jpg)
-
-
-
-https://user-images.githubusercontent.com/66920423/138529519-438e0b06-5eb1-49ac-9f40-18467cf77e00.mp4
 
