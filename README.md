@@ -16,3 +16,9 @@ https://user-images.githubusercontent.com/66920423/138082328-9cd917f1-836f-42c1-
 
 https://user-images.githubusercontent.com/66920423/138083167-222bd464-005c-4ba7-b44a-fe0271a4babd.mp4
 
+Часть реализованных игр заглушек для Google Play
+
+
+
+https://user-images.githubusercontent.com/66920423/138526467-c7ca1341-f715-4518-886a-62aa2c2ff6c8.mp4
+
