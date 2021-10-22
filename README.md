@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/66920423/138083167-222bd464-005c-4ba7-
 
 Часть реализованных игр заглушек для Google Play
 
-https://user-images.githubusercontent.com/66920423/138532135-e63f852d-5f31-4d9c-9522-095d587edf35.mp4
+https://user-images.githubusercontent.com/66920423/138532186-f0439cf9-1edb-4a0d-8864-ce3e6c1e99f2.mp4
 
 
 Платформер 
